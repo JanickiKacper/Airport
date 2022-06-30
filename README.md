@@ -1,13 +1,13 @@
 # Airport
 
-start venv
 
+start venv:
 .venv\Scripts\activate.venv\Scripts\activate
 
-
-backend
+in bakcned console run command:
 python manage.py runserver
 
+open another console
 
-frontend
+in frontend console run commend:
 npm run serve
