@@ -3,7 +3,7 @@
 
 #start venv:
 ```
-.venv\Scripts\activate.venv\Scripts\activate
+envirorment_3_10_2\Scripts\activate
 ```
 #in bakcned console run command:
 ```
