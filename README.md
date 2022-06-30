@@ -6,7 +6,7 @@
 .venv\Scripts\activate.venv\Scripts\activate
 ```
 #in bakcned console run command:
-``
+```
 python manage.py runserver
 ```
 #open another console
